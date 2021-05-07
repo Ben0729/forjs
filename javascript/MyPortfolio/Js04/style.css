@@ -1,0 +1,21 @@
+header{
+    margin: 0;
+    padding: 0;
+    vertical-align: center;
+    text-align: center;
+    background: gray;
+}
+header h1{
+    margin: 0;
+}
+div{
+   
+    width: 30%;
+    height: 200px;
+    background-color: antiquewhite;
+    cursor: url(/Js04/man.png),auto;
+}
+p{
+    height: 30px;
+    font-size: large;
+}

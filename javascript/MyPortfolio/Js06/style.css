@@ -1,0 +1,14 @@
+div{
+    margin: 20px 30px;
+    width: 200px;
+    height: 200px;
+    background: blueviolet;
+    text-align: center;
+    font-size: 50px;
+    align-items: center;
+    color: white;
+}
+header h1{
+    text-align: center;
+    background: wheat;
+}
